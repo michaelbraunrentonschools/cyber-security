@@ -2,7 +2,7 @@
 
 # Overview: Includes a demonstration of the project. 
 
-## Topic: You are developing a website as consulting company experts. Your team represents a specicif topic in Cyber Security.
+## Topic: You are developing a website as consulting company experts. Your team represents a specific topic in Cyber Security.
 
 ## Website 1: Syber Digital Footprint ...  https://sites.google.com/g.rentonschools.us/syber/home
 
