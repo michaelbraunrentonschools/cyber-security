@@ -1,13 +1,16 @@
-# cyber-security
-hall-of-fame
+# Final Project Examples, aka. Mr. Braun's Hall of Fame 
 
-Website 1: Syber Digital Footprint ...  https://sites.google.com/g.rentonschools.us/syber/home
+# Overview: Includes a demonstration of the project. 
 
-<br>
-Website 2: Challenge Everything ...  https://sites.google.com/g.rentonschools.us/art-of-cryptography/home
+## Topic: You are developing a website as consulting company experts. Your team represents a specicif topic in Cyber Security.
 
-<br>
-Website 3: The Basic Company ...  https://sites.google.com/g.rentonschools.us/the-basic-company/home
+### Website 1: Syber Digital Footprint ...  https://sites.google.com/g.rentonschools.us/syber/home
 
 <br>
-Website 4: Xyber X ...  https://sites.google.com/g.rentonschools.us/xyberx/home
+### Website 2: Challenge Everything ...  https://sites.google.com/g.rentonschools.us/art-of-cryptography/home
+
+<br>
+### Website 3: The Basic Company ...  https://sites.google.com/g.rentonschools.us/the-basic-company/home
+
+<br>
+### Website 4: Xyber X ...  https://sites.google.com/g.rentonschools.us/xyberx/home
